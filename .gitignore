@@ -1,1 +1,8 @@
 am.txt
+    am.txt
+*.jpg
+!srk.jbg
+/demo
+myfolder/demo
+ 
+
