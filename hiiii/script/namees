@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "enter your name"
+read name
+mkadir $name
+cd $name
+touch $name.txt
+echo $name > $name.txt
